@@ -7,7 +7,7 @@ Computer with MATLAB software
 ## Theory:
 ![WhatsApp Image 2025-11-17 at 11](https://github.com/user-attachments/assets/4bbd8582-e1b4-47c4-a90a-ffa219861778)
 ![WhatsApp Image 2025-11-17 at 22](https://github.com/user-attachments/assets/f9336b2e-9874-402b-b90c-c26debedc19c)
-
+<img width="944" height="1280" alt="image" src="https://github.com/user-attachments/assets/e810bab6-d27a-4a98-b10d-32688a0a7a0a" />
 
 
 
@@ -42,7 +42,8 @@ end
 
 ## Output:
 
-<img width="693" height="625" alt="image" src="https://github.com/user-attachments/assets/33402d2a-3723-46b7-93c1-ef21a0a8c9e2" />
+<img width="1020" height="948" alt="image" src="https://github.com/user-attachments/assets/a905c589-6c5f-4b93-86e2-354ecf50c0b0" />
+
 
 
 
